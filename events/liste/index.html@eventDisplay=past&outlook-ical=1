@@ -1,0 +1,153 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sainte Hélène pour vous aujourd&#039;hui ? - ECPv6.18.0//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-ORIGINAL-URL:https://sha2025.fr
+X-WR-CALDESC:Évènements pour Sainte Hélène pour vous aujourd&#039;hui ?
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:20240331T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:20241027T010000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:20250330T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:20251026T010000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:20260329T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:20261025T010000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20251121T000000
+DTEND;TZID=Europe/Paris:20251121T235959
+DTSTAMP:20250312T124415Z
+CREATED:20250311T163434Z
+LAST-MODIFIED:20250312T124415Z
+UID:863-1763683200-1763769599@sha2025.fr
+SUMMARY:Fête des 200 ans de la translation des reliques de Sainte Hélène
+DESCRIPTION:17h30 vêpres orthodoxes et catholiques\, \n18h30 messe présidée par Mgr Tois\, \n19h30 cocktail ouvert à tous
+URL:https://sha2025.fr/event/fete-des-200-ans-de-la-translation-des-reliques-de-sainte-helene/
+LOCATION:Eglise Saint Leu Saint Gilles\, 92 rue Saint Denis\, Paris\, Ile de France\, 92170\, France
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20251017T000000
+DTEND;TZID=Europe/Paris:20251017T235959
+DTSTAMP:20250311T163339Z
+CREATED:20250311T163236Z
+LAST-MODIFIED:20250311T163339Z
+UID:861-1760659200-1760745599@sha2025.fr
+SUMMARY:Fête de Notre Dame de Palestine
+DESCRIPTION:Messe à 18h30 et concert d’orgue à 19h30
+URL:https://sha2025.fr/event/fete-de-notre-dame-de-palestine/
+LOCATION:Eglise Saint Leu Saint Gilles\, 92 rue Saint Denis\, Paris\, Ile de France\, 92170\, France
+CATEGORIES:Fêtes
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20250912T000000
+DTEND;TZID=Europe/Paris:20250912T235959
+DTSTAMP:20250311T083832Z
+CREATED:20250301T093450Z
+LAST-MODIFIED:20250311T083832Z
+UID:455-1757635200-1757721599@sha2025.fr
+SUMMARY:Fête de la Croix Glorieuse
+DESCRIPTION:Fête de la Croix Glorieuse avec les chevaliers de l’OESSJ \n\nmesse à 18h30\, vêture des écuyers et demoiselles de l’OESSJ
+URL:https://sha2025.fr/event/fete-de-la-croix-glorieuse/
+LOCATION:Eglise Saint Leu Saint Gilles\, 92 rue Saint Denis\, Paris\, Ile de France\, 92170\, France
+CATEGORIES:Fêtes
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20250527T193000
+DTEND;TZID=Europe/Paris:20250527T213000
+DTSTAMP:20250417T090530Z
+CREATED:20250218T115843Z
+LAST-MODIFIED:20250417T090530Z
+UID:85-1748374200-1748381400@sha2025.fr
+SUMMARY:Conférence
+DESCRIPTION:« la vénération de Sainte-Hélène dans l’Église orthodoxe »\, par le père Joseph Pavlinciuc
+URL:https://sha2025.fr/event/conference-4/
+LOCATION:Eglise Saint Leu Saint Gilles\, 92 rue Saint Denis\, Paris\, Ile de France\, 92170\, France
+CATEGORIES:Conférences
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20250523T193000
+DTEND;TZID=Europe/Paris:20250523T213000
+DTSTAMP:20250417T090612Z
+CREATED:20250218T115813Z
+LAST-MODIFIED:20250417T090612Z
+UID:83-1748028600-1748035800@sha2025.fr
+SUMMARY:Conférence
+DESCRIPTION:« Le regard de l’Ordre Équestre du Saint Sépulcre de Jérusalem (OESSJ) sur la mission de Sainte Hélène en Terre Sainte »\, par M. Henri Barbé
+URL:https://sha2025.fr/event/conference-3/
+LOCATION:Eglise Saint Leu Saint Gilles\, 92 rue Saint Denis\, Paris\, Ile de France\, 92170\, France
+CATEGORIES:Conférences
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20250518T150000
+DTEND;TZID=Europe/Paris:20250518T170000
+DTSTAMP:20250311T084037Z
+CREATED:20250218T114110Z
+LAST-MODIFIED:20250311T084037Z
+UID:71-1747580400-1747587600@sha2025.fr
+SUMMARY:Concert
+DESCRIPTION:concert de chœurs liturgiques orthodoxes\, chants en slavon\, suivi d’un verre de l’amitié dans la salle St Leu
+URL:https://sha2025.fr/event/concert/
+LOCATION:Eglise Saint Leu Saint Gilles\, 92 rue Saint Denis\, Paris\, Ile de France\, 92170\, France
+CATEGORIES:Concert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20250507T193000
+DTEND;TZID=Europe/Paris:20250507T235900
+DTSTAMP:20250417T090646Z
+CREATED:20250218T115636Z
+LAST-MODIFIED:20250417T090646Z
+UID:79-1746646200-1746662340@sha2025.fr
+SUMMARY:Conférence
+DESCRIPTION:« La vie de Sainte Hélène\, de l’état d’une fille d’auberge à celui d’une impératrice\, première pèlerine en Terre Sainte »\, par Mme Yvert-Jalu
+URL:https://sha2025.fr/event/conference/
+LOCATION:Eglise Saint Leu Saint Gilles\, 92 rue Saint Denis\, Paris\, Ile de France\, 92170\, France
+CATEGORIES:Conférences
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20250502T000000
+DTEND;TZID=Europe/Paris:20250914T235959
+DTSTAMP:20250311T084132Z
+CREATED:20250218T121228Z
+LAST-MODIFIED:20250311T084132Z
+UID:91-1746144000-1757894399@sha2025.fr
+SUMMARY:EXPOSITION
+DESCRIPTION:Exposition « Sainte Hélène pour vous aujourd’hui »\, présente jusqu’à l’automne. \nVénération des reliques de Sainte Hélène\, sur demande à la paroisse\,
+URL:https://sha2025.fr/event/exposition/
+LOCATION:Eglise Saint Leu Saint Gilles\, 92 rue Saint Denis\, Paris\, Ile de France\, 92170\, France
+CATEGORIES:Exposition
+END:VEVENT
+END:VCALENDAR
